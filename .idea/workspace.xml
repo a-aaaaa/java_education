@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1edf04f-88ea-4393-a0ef-ba647396fc9c" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr2/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668756638829</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1669192828290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669192828290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +111,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
