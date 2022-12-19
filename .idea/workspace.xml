@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1edf04f-88ea-4393-a0ef-ba647396fc9c" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669192828290</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1670319650003</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670319650003</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
